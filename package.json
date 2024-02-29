@@ -1,0 +1,36 @@
+{
+  "name": "react_nilesh",
+  "version": "1.0.0",
+  "description": "this is nilesh react learning",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilesh-nitw/Nilesh-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Nilesh Maurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilesh-nitw/Nilesh-react/issues"
+  },
+  "homepage": "https://github.com/nilesh-nitw/Nilesh-react#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslits":[
+    "last 2 vefrfsion"
+    
+  ]
+}

@@ -1,1 +1,17 @@
 #Nilesh react inside course
+#parcel
+-> dev build
+-> local serverHMR = hot module replacement(refersh)
+-> file watching alogo -written in c++
+-> caching -faster builds
+-> image optimization
+-> minification
+-> bundle
+-> compressing
+-> code splitting
+-> consistent hashing
+-> diffrential bundeling
+-> diagnostic
+-> eroor handling
+->https
+-> tree shaking -> remove unused code
